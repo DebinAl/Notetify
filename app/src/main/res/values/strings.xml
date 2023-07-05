@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notetify</string>
+    <string name="onboardDescription">The best place for your words</string>
+    <string name="onboardButton">Start</string>
+    <string name="foreground">foreground</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="addlist">addList</string>
+    <string name="judul_note">Judul Note</string>
+    <string name="datetime">datetime</string>
+    <string name="backbutton">BackButton</string>
+    <string name="title">Title</string>
+</resources>
